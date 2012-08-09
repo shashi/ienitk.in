@@ -115,6 +115,7 @@ a {
 
 .icon-menu {
     width: 100%;
+    padding-left: 0 !important;
     li {
     opacity: 0.8;
     width: 100%;
@@ -179,4 +180,87 @@ h2.section-title {
         font-size: 2em;
         color: @sep-icon-color;
     }
+}
+
+/* Gallery */
+#gallery{
+	/* The pics container */
+	width:100%;
+	height: 220px;
+	position:relative;
+	
+}
+
+#eventspage #gallery{
+	/* The pics container */
+	width:44em;
+	height: 220px;
+	position:relative;
+	
+}
+
+#gallery .pic, #gallery .pic a{
+	/* Each picture and the hyperlink inside it */
+}
+
+#gallery .pic{
+	/* Styles specific to the pic class */
+	cursor: pointer;
+	position:absolute;
+    overflow: visible;
+    z-index: 99;
+}
+
+#gallery .pic a img {
+	padding: 3px;
+	/*border-bottom:18px solid #eeeeee;*/
+	/*background: url(../images/layout/.gif) no-repeat; */
+	background: #CCB;
+	/* CSS3 Box Shadow */
+	-moz-box-shadow:2px 2px 3px #333333;
+	-webkit-box-shadow:2px 2px 3px #333333;
+	box-shadow:2px 2px 3px #333333;
+}
+
+#gallery {
+    margin-top: 40px;
+    width: 200%;
+    height: 135px;
+}
+
+.gallery-wrap {
+padding-left: 65px;
+overflow: hidden;
+}
+.gallery-cover {
+    border-bottom: 1px #555 solid;
+}
+.gallery-cover .sep {
+    margin: 0;
+    height: 0 !important;
+}
+
+.floatbox {
+    position: fixed;
+    top: 40px;
+    bottom: 40px;
+    text-align: center;
+    left: 40px;
+    right: 40px;
+    z-index: 99999999999;
+}
+
+.floatbox img {
+    position: relative;
+    width: auto;
+    height: 100%;
+}
+
+
+.floatbox i {
+    float: right;
+    color: #adadad;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 40px;
 }
