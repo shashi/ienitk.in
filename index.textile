@@ -1,0 +1,28 @@
+---
+layout: index
+title: Title
+---
+
+<!-- about -->
+<div class="sep"><i class="icon-calendar"></i></div>
+
+<div id="about">
+<h2 class="section-title">about</h2>
+    {% include about.md %}
+</div>
+<!-- upcoming -->
+<div class="sep"></div>
+
+<div id="upcoming">
+    <h2 class="section-title">upcoming</h2>
+</div>
+
+<div id="blog">
+<div class="sep"><i class="icon-edit"></i></div>
+<article class="column one">
+
+<h2 class="blog-title">Some </h2>
+<p><p>
+
+</article>
+</div>
