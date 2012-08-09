@@ -3,15 +3,17 @@ layout: index
 title: Title
 ---
 
-<!-- about -->
-<div class="sep"><i class="icon-calendar"></i></div>
-
+<div class="gallery-wrap">
+{% include pics.html %} <div style="clear:both"></div>
+</div>
+<div class="gallery-cover">
+</div>
 <div id="about">
 <h2 class="section-title">about</h2>
     {% include about.md %}
 </div>
 <!-- upcoming -->
-<div class="sep"></div>
+<div class="sep"><i class="icon-calendar"></i></div>
 
 <div id="upcoming">
     <h2 class="section-title">upcoming</h2>
