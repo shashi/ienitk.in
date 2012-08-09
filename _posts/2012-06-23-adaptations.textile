@@ -2,6 +2,7 @@
 layout: post
 title: Adaptations
 author: Aashish Mane
+excerpt: It's the day after now, and I hadn't written anything yet. Honestly? I'd subconsciously believed that publicly declaring that I was up to something would be incentive for me to get up to it.  I'm writing now.
 ---
 
 *Is anyone up to anything good regarding FF2?

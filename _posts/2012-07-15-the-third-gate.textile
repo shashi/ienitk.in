@@ -2,10 +2,13 @@
 layout: post
 title: The Third Gate
 author: B. Aashranth
+excerpt: The scream still ricochets off the walls. Through haggard eyes I see the goblet tremble; a raging tempest within - matching the palpitations of my heart - pulse for pulse.
 ---
 
-Demos Oneiroi simply means "the land of dreams" taken from Greek mythology. The Oneiroi were black winged demons, their father was the god of sleep, Hypnos. Each night, the Oneiroi would fly from their home, passing through one of two gates to deliver dreams to the sleeping people. Which gate they passed through would determine how meaningful, or true, the dream they would receive was.
--The Internet
+p>. by _{{ page.author }}_
+
+bq. Demos Oneiroi simply means "the land of dreams" taken from Greek mythology. The Oneiroi were black winged demons, their father was the god of sleep, Hypnos. Each night, the Oneiroi would fly from their home, passing through one of two gates to deliver dreams to the sleeping people. Which gate they passed through would determine how meaningful, or true, the dream they would receive was.
+p>. -The Internet
  
 h3. I. Gnawing doubt
  

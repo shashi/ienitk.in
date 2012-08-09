@@ -2,6 +2,7 @@
 layout: post
 title: Halt, Visitor!
 author: B. Aashranth
+excerpt: The Institute of Engineers (IE), NITK Chapter, is a recogrized student organization affiliated to the Institution of Engineers, India. The oldest professional society on campus (established in 1969), IE has a glorious legacy; one we always strive to better through carefully designed activities and initiatives.
 ---
 
 
