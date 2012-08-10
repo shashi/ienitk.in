@@ -25,7 +25,7 @@ title: Title
 	{% for post in site.posts limit:3 %} 
 <div class="five columns">
 	<h3> <a href="{{ post.url }}"> {{ post.title }} </a></h3> 
-	<div class="author">- {{ post.author }}</div>
+	<div class="author">&mdash; {{ post.author }}</div>
 	{{ post.excerpt }} <a href="{{ post.url }}">&nbsp; &nbsp; &raquo; </a>
 	</div>
 	{% endfor %}
