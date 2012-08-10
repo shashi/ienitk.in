@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<h2 class="blog-title"> <a href="{{ page.url }}">{{ page.title }} </a></h2>
+<div style="text-align: right; font-style: italic">by {{ page.author }}</div>
+{{ content }}
+

@@ -6,7 +6,6 @@ excerpt: It was a Sunday. The weather was perfect. 25 degrees. Clear skies. No s
  
 ---
 
-p>. by _{{ page.author }}_
 
 It was a Sunday. The weather was perfect. 25 degrees. Clear skies. No sign of rain. Nice breeze. Open top Porsche with  three digits on the odometer. A tank full of gas. Sunglasses. Beer in the boot. An awesome soundtrack. Highway through the desert. Not a soul for miles. It was perfect.
 
