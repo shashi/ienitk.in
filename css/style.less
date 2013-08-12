@@ -1,5 +1,5 @@
 @import url("http://fonts.googleapis.com/css?family=Open+Sans:300,400,800");
-@import url(http://fonts.googleapis.com/css?family=Raleway);
+@import url("http://fonts.googleapis.com/css?family=Raleway:300,400,600");
 @import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400italic);
 @import url(fonts/fontawesome/css/font-awesome.css);
 
@@ -10,7 +10,7 @@
 @sep-icon-color: @sep-color;
 @section-title-color: @sep-color;
 @subtitle-color: #222;
-@highlight-color: rgba(255,0,0,200);
+@highlight-color: rgba(255,10,10, 100);
 
 html, body {
     margin: 0;
@@ -114,8 +114,9 @@ header {
 #the-club {
 padding-right: 2em;
 }
+
 a {
-    color: inherit;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -150,7 +151,7 @@ a {
     li:hover {
         opacity: 1;
         i {
-            text-shadow: 0px 0px 0.2em rgba(0, 0, 0, 80);
+            text-shadow: 0px 0px 0.2em #111;
         }
         span {
             opacity: 1;
@@ -158,7 +159,7 @@ a {
             -webkit-transition: opacity 0.3s ease;
         }
     }
-    .highlight {
+    .highlight a {
         color: @highlight-color;
     }
 }
@@ -177,7 +178,6 @@ a {
 .author {
     color: #878787;
 }
-
 h2.section-title {
     font-family: 'Gentium Book Basic';
     font-weight: normal;
@@ -186,6 +186,11 @@ h2.section-title {
     color: @section-title-color;
     font-style: italic;
 }
+h2 {
+    margin-bottom: 0;
+    margin-top: 1em;
+}
+
 .sep {
     border-bottom: 1px @sep-color solid;
     line-height: 0;
@@ -304,4 +309,8 @@ overflow: hidden;
 }
 #logo {
 opacity: 0.1;
+}
+
+.post .read-more {
+opacity: 0.2;
 }

@@ -12,20 +12,25 @@ title: Title
     {% include about.md %}
 </div>
 <!-- upcoming -->
-<div class="sep"><i class="icon-calendar"></i></div>
+<div class="sep" id="upcoming"><i class="icon-calendar"></i></div>
 
-<div id="upcoming">
+<div>
     <h2 class="section-title">upcoming</h2>
+h3. August 2013
+
+* Mon., 12th 2013 -- Pre-recruitment talk
+* Thu., 15th 2013 -- Recruitments begin
+* Thu., 22th 2013 -- Treat etc.
+* Fri., 23th 2013 -- SIG activities resume
 </div>
 <div id="blog">
 <div class="sep"><i class="icon-edit"></i></div>
     <h2 class="section-title">blog</h2>
 	<div class="row">
-	{% for post in site.posts limit:3 %} 
-<div class="five columns">
+	{% for post in site.posts limit %} 
+<div class="five columns post">
 	<h3> <a href="{{ post.url }}"> {{ post.title }} </a></h3> 
 	<div class="author">&mdash; {{ post.author }}</div>
-	{{ post.excerpt }} <a href="{{ post.url }}">&nbsp; &nbsp; &raquo; </a>
-	</div>
-	{% endfor %}
+	{{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&nbsp; &nbsp; &raquo; </a>
+	</div>{% endfor %}
 </div>

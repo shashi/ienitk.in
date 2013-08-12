@@ -1,88 +1,80 @@
 ---
 layout: post
-title: IE Special Interest Groups (SIG)
+title: Special Interest Groups (SIGs)
 author:
 ---
 
-IE firmly believes in the process of knowledge exchange among its members. For this purpose, a number of *Special Interest Groups* have been introduced, where members regularly meet and engage in discussions, problem-solving and undertake new projects and activities. An inclusive approach to these programs is followed, with the intention of catering to the holistic growth and furthering the interests of every member. What’s more, members are encouraged to start their own SIGs and utilise the club to pursue common interests in a fruitful manner.
-
-This year, we have several SIGs running:
-
-h2. Core SIGs
+To persue various interests the members have, IE has a number of *Special Interest Groups*, where group members regularly meet and engage in discussions, problem-solving and undertake new projects and activities. What's more, members are encouraged to start their own SIGs and utilise the club to pursue common interests in a fruitful manner.
 
 Every member of IE must belong to one of these SIGs. These are intended to generate interest in technical/analytical fields and develop skills in the same.
-* Garage
 * Code
+* Garage
 * Gadget
 * Finance
-
-h2. Auxillary SIGs
 
 Purely interest-based, auxiliary SIGs can be about anything under the sun; in the past IE has had SIGs for music, reading, writing, astrophysics, eco-activism, Internet culture, poker, movies, and even adventure sports! Each batch that comes into IE brings a new flavor into the club in the form of these SIGs.
 
 Presently active SIGs:
-* GreenAid
-* Computer History and Internet Culture SIG
-* Amateur Writers’ Group
+* Design
+* Films
+* Theatre
+* Philosophy
+* GreenAid/Vriddhi
+* Amature Writers' group
 
-h2. Our SIGs - A bird’s eye-view
+h2. Core SIGs
+
+h3. Code
+
+Code is the Computer Science and Artificial Intelligence SIG. We believe and algorithms are only means to explore Computer Science and to craft beautiful software. We focus on the bigger ideas in our projects and discussions, and count on the do-it-yourself spirit to teach us inspiring and unexpected things that only experience can teach. We also have a penchant for Computer History.
+
+One project we plan to continue this year is (for want of a better name) the Scheme-Physics project whose prototype can be found "here":(http://sachinhosmani.github.com/Scheme-Physics) (you'll need WebGL). It is a project to help high-schoolers learn to program in Scheme by exploring it via a virtual physics world. Kind of like LOGO, but in the browser and less abstract.
+
+We have an orientation programme in the works, especially for our new recruits. Through this, we aim to accelerate their learning in programming, designing algorithms, artificial intelligence, web development, and core CS problems. After this, we will be shifting our focus to hands on projects and hackathons where people can work on their own ideas in small groups.
+
+Code organizes rtfm, arguably the most pedagogical computer science event in college, and Mathematica, our math and logic quest. If you are a first year, look out for these.
+
+_*SIG heads:*_ Arka Rai Chaudhuri &amp; Sachin Hosmani
 
 h3. Garage
 
 !>{width: 400px; height: auto; }/images/blog/aero.jpg(Aero)! 
 
-_The ultimate pitstop for those fascinated by dynamics, structures, materials and absolutely anything to do with machines!_
+Garage is the Mechanical SIG. This semester, Garage plans to complete a minimum of 3 working projects, two of which were initiated last year. The first one is on the quirky side - an automatic blackboard duster. Here we plan to build a prototype of an automatic blackboard duster which can work with existing blackboards. The focus is on making it dirt cheap by tweaking the product design. We also plan to make an RC plane to participate in the competition to be held during Engineer. The third project shall be decided based on the inputs of our new members. Apart from projects, we plan to become efficient with modeling software such as ANSYS, CATIA etc.
 
-With no restrictions as to branch or specific areas of knowledge, the SIG demands nothing but a love for the field. Garage meets consist of open discussions and software tutorials, of heated debates and fascinating talks, all sprinkled between hardcore sessions on relevant _gyaan_.
+We also organize Sync, the DIY event for juniors where they get to build fun contraptions to serve weird purposes using inexpensive materials and jugaad.
 
-The group is focused towards continuous learning and parallel application towards long-term projects.
+_*SIG Heads*_ : Akshay KR &amp; Ruban Periyaswamy
 
-*Some proposed activities and projects include:*
-* Discussion of relevant problem statements from technical fests such as Engineer and    Shaastra.
-* Talks, discussions and tutorials on computer-based modelling and design.
-* Investigation of possible biomimicry applications for water conservation.
-* Investigation of possible methods to counter oceanic oil spills.
-
-_*SIG Heads*_ : Sumeet Kumar and Priyadarshini S.
-
-h3. Code
-
-The increasing number of collegiate programming and software development events in India and elsewhere highlighted the acute need for an open forum on coding, where beginners and old hands could come together and share expertise in an informal, mutually beneficial atmosphere. IE stepped in to fill this gap, and *Code* was born.
-
-Members of this SIG share knowledge with fellow members and further their interests in the field.
-
-Discussion of advanced techniques and problem statements from contests is  regular feature of this group. In addition, Code members organise such contests within college for the benefit of the student body of NITK.
-
-*Some activities and projects include:*
-* Conduction of regular codejams and other contests in college.
-* Team-based participation in ICPC and other prestigious competitions.
-* Along with Gadget, project on Sound-based 3-D Image Processing
-
-_*SIG heads:*_ Vivek Ravindran and Naveen Kumar
 
 h3. Gadget
 
 !>{width: 300px; height: auto;}/images/blog/automata.jpg(Aero)! 
 
-To obtain and share knowledge about basics of robotics, image processing, microcontroller programming and all related fields, a group of hugely talented IE members set up the Robotics SIG. Today, the group has evolved into Gadget, combining all that an electronics or gadget freak could dream of! Be it robotics, sensors, displays-they do it all.
+Gadget is the forum for members (and friends) who are into Electronics and Electrical engineering and related fields. Since most of the members (and friends) have an interest in image processing, we're kicking off with a game project with OpenCV. Later in the semester we plan to take on some Engineer problem statements and give our best shot. 
 
-*Some activities and projects include:*
-* Series of lectures and hands-on sessions on basics of robotics, image processing, and other gadget technology.
-* Discussion of problem statements from various fests.
-* Along with Code, project on Sound-based 3-D Image Processing.
+Gadget is also planning to organise project ‘Fast Forward', where members present walkthroughs of projects they've done, from ideation to implementation to the challenges they faced. We organize Wired Up, an event for the circuit enthusiasts in first year that tests your basic electronics know-how and logical thinking skills.
 
-_*SIG head:*_ Varun Reddy
+Most importantly, we're hoping for participation from more non EC/EE folk and non IE members as well. If you're a tronix geek, this is the forum for you!
+
+_*SIG head:*_ Preeti Sivakumar &amp; Bharadwaj Lingam
 
 h3. Finance
 
-This group was created to develop interest in the field of finance and provide exposure to applications of finance.
+"The first rule in making money is to not lose it."
+
+This group was created to develop interest in the field of finance and provide exposure to applications of finance. Finance SIG has become a forum for Insvesting, Economics and Entrepreneurship.
 
 *Planned Activities*
 * Regular talks on various finance related topics
 * Discussion of related case studies
 * Participation in related online and offline competitions
 
-_*SIG head:*_ Abhishek Shetty
+The prime project of the sig for the next semester would be a study on the top 5 indian companies with innovative marketing strategies We also plan to screen a few documentaries related to finance and marketing. Looking forward to building nitk's new business and trading masterminds.
+
+_*SIG head:*_ Vaishakh &amp; Manoj Kumar
+
+h2. Auxiliary SIGs
 
 h3. GreenAid
 
@@ -91,23 +83,55 @@ Running project
 
 *Project Vriddhi:* Seeking to combine technical know-how with social responsibility, the team identifies daily problems faced by villages in the Mangalore-Udupi region and attempts to mitigate them using student resource, institute infrastructure and NGO support.
 
-_*SIG in-charge:*_ Akanksha Sharma
+_*SIG in-charge:*_ Khushi V &amp; Shruti Rastogi
 
-h3. Computer History and Internet Culture
+h3. Design
 
-The ‘CHICSIG’ is a group of internet fanatics, meme nuts and computer history buffs. Through interactive discussions and talks, the group aims to make little known aspects of the internet more accessible to everyone.
-Planned Activities
+To help the right-brained among us channel our technical skills to make the most impact, this year we are starting the Design SIG.
 
-# Regular talks on various topics like internet memes, webcomics taking the internet by a storm, famous usenet flame wars.
-# *Archive project:* To resurrect websites and resources that are dying of negligence, but have played a major part in the story of the internet.
-# Setting up an IRC channel to share links, scripts and flame.
+bq. "Engineering, medicine, business, architecture and painting are concerned not with the necessary but with the contingent - not with how things are but with how they might be - in short, with design." - Herbert Simon
+
+This year, we plan to have some lively discussions by way of exploring histories or dissecting examples. Some topics we are considering are typography, grids and geometry in presentation, colors, product design, ad placements, programming languages, basically anything that will inspire design. We believe these discussions will have immediate positive impact on the way one goes about making, say, a Photoshop job or a web page or a satellite.
+
 
 _*SIG in-charge:*_ Shashi Gowda
 
+h3. Films
 
-h3. Amateur Writers’ Group
+The films SIG aims at providing a more in-depth perspective of cinema and its various aspects. There is a lot of general know-how to go around and the SIG will channel this in the form of discussions and presentations which offer a more detailed view of the different aspects of movies such as cinematography, camera work, scripting, score and story. Apart from introspection into existing movies, we also aim at developing projects involving the members of the club.
 
-In the absence of an effective mechanism to encourage writing and literary pursuits in NITK, IE steeped in with the Amateur Writers’ Group. Presently running on a popular social networking site, this group is open to all interested NITKians and holds regular contests. It ensures feedback and discussion sessions, providing the would-be Kiplings and RK Narayanans a much-needed outlet.
+In the coming year, movies of various genres will be screened regularly, followed by a discussion. The major project under this SIG is the making of short films. This will provide an exposure to the practical aspects of filmmaking. Through this we plan to introduce a YouTube channel, similar to a podcast. We also aim to coordinate with members of the NITK Music Club (which has a sizable number of IE members) to develop original scores for the films. This will enable us to participate in various competitions across different colleges and conduct events of this kind for the first time in our college.. 
+
+_*SIG in-charge:*_ Abhishek Ravi Sundaram
+
+h3. Theatre
+
+Theatre SIG is for the members enthusiastic about the artform.
+
+This year at the Theatre SIG we'll be focussing on acting and scriptwriting. The hope is that participants can let go of themselves and learn how to use a stage to simulate an imagined reality.
+
+_*SIG in-charge:*_ Aashish Mane
+
+h3. Philosophy
+
+bq. The Answer to the Great Question... Of Life, the Universe and Everything... Is... Forty-two,' said Deep Thought, with infinite majesty and calm.
+--Douglas Adams, The Hitchhiker's Guide to the Galaxy
+
+We spend a lot of time learning about various aspects of our world without really spending a lot of time thinking about the bigger questions such as the political implications of the work we do, the validity of the assumptions in the subjects we study etc.
+
+The philosophy SIG is an auxiliary SIG which started in the last semester and is open to anyone in college. We like to meet up once in awhile, take a break from our regular schedules and just discuss and think about various philosophical topics.
+
+We have had discussions on a variety of topics ranging from Recursive Thinking and Artificial Intelligence from the book Godel Escher Bach to the insightful ideas presented in comics like Calvin And Hobbes.
+
+In the coming year we plan to continue our discussions with topics ranging from political philosophy to the Matrix trilogy.
+
+Since we already know the answer is forty two, we should probably spend the rest of our lives looking for the question. Feel free to come and help us and yourself take a few steps towards the questions.
+
+_*SIG in-charge:*_ Adit Biswas
+
+h3. Amateur Writers' Group
+
+In the absence of an effective mechanism to encourage writing and literary pursuits in NITK, IE steeped in with the Amateur Writers' Group. Presently running on a popular social networking site, this group is open to all interested NITKians and holds regular contests. It ensures feedback and discussion sessions, providing the would-be Kiplings and RK Narayanans a much-needed outlet.
 
 Not on it yet? "Join immediately!":https://www.facebook.com/groups/153406361419250/members/
 
@@ -115,4 +139,4 @@ Not on it yet? "Join immediately!":https://www.facebook.com/groups/1534063614192
 # Continue the current online group where members post their work frequently and bring out more variety in the kind of writing and topics given.
 # Create an anthology of stories and other literary works by NITKians, taking creative writing to the next level.
 
-_*SIG head:*_ B. Aashranth 
+_*SIG head:*_ B. Aashranth &amp; Anindita Ravikumar
