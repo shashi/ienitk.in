@@ -9,7 +9,6 @@ title: Title
 <div class="gallery-cover">
 </div>
 <div id="about">
-<h2 class="section-title">about</h2>
     {% include about.md %}
 </div>
 <!-- upcoming -->
