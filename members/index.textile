@@ -1,0 +1,146 @@
+---
+layout: default
+title: The Team
+---
+
+h1. Members
+
+<div class="row member-list">
+<div class="columns five">
+h2. Core
+* Khushi Vijaykumar
+  _Convener_
+* Shashi Gowda
+  _President
+  9591524414_
+* Shiva Shanker
+  _Joint-Convener
+  9945495348_
+* Shruti Rastogi
+  _Vice-President_
+* Rohan Suresh
+  _Engineer Representative
+  9986892733_
+* Vishnu Swaroop
+  _Technical Coordinator
+  9986849580_
+* Pallavi Raiturkar
+  _Events Coordinator_
+* Arka Rai Choudhuri
+  _Code SIG Coordinator
+  9611863964_
+* Sachin Hosmani
+  _Code SIG Coordinator*_
+* Preeti Sivakumar
+  _Gadget SIG Coordinator_
+* Bharadwaj Lingam
+  _Gadget SIG Coordinator *_
+* KR Akshay
+  Garage SIG Coordinator
+  9731937661
+* Balaruban
+  _Garage SIG Coordinator *_
+* Vaisakh VL
+  _Finance SIG Coordinator
+  8123392521_
+* Manoj Kumar
+  _Finance SIG Coordinator *_
+* Pramati S Kalwad
+  _Treasurer*_
+* Niketha Mudalla
+  _Secretary*_
+
+<span>* -- From third year.</span>
+</div>
+
+<div class="columns five">
+h2. Final years
+* Aashish Mane
+* Akash Kumar
+* Aniket Mule
+* Anindita Ravikumar
+* Anirudh Raman
+* Anirudh Srinivas
+* Arka Rai Choudhuri
+* Arun Thayat
+* Bharat M Madikeri
+* Chiranth Hegde
+* Deep Agarwal
+* Divya Ramnath
+* Jain Zachiriah
+* Joseph Thariath Jose
+* Jyothsna
+* K R Akshay
+* Khushi V
+* Kislaya Srivastava
+* Mrinal Vibhav  Arun
+* Mrinalini Kumar V
+* Mugdha Dhavalikar
+* Nishanth H Reddy
+* Nizam Mohiyudheen
+* Pallavi Raiturkar
+* Pranav Ram V
+* Praneeth
+* Preeti Sivakumar
+* Prem Sameer
+* Priyank Kumar
+* Rahul Satish
+* Rajiv V
+* Rohan Suresh
+* Rushil Goyal
+* Shanmuga Sunder
+* Shashi Gowda
+* Shiva Shanker
+* Shravya Boggarapu
+* Shruti Rastogi
+* Siddhartha R.T.
+* Sriranjan Tirumalai
+* Srivaths R
+* Suresh Alse
+* T Siddarth Shanon
+* Vaisakh V L
+* Vinoo K S
+* Vishnu Swaroop
+</div>
+
+<div class="columns five">
+h2. Third years
+* Abhijith Balakrishnan
+* Abhijith C Sabu
+* Abhishek Arora
+* Abhishek R
+* Adit Biswas
+* Aditya Srinivasan
+* aditya sundaram     
+* Anirudh Ankush Bhand
+* Arun A
+* Ashwin D T
+* Balaruban
+* Bharadwaj lingam
+* Blessen George
+* Harshit
+* Hiba Ahsan
+* JACOB J OVELIL
+* Jahnavi K
+* Kartik Sreenivasan
+* Keshav Ramaswami
+* M B Mithun
+* M JYOTHI
+* Manish Kumar
+* Manoj Kumar
+* Naveen
+* Niketha Mudalla
+* nikhil thakkar
+* P Sri Harsha
+* Pramati S Kalwad
+* prasidh naik
+* Ratheesh Raghavan
+* Ruchika S
+* Sachin Hosmani
+* Shubham Agarwal
+* Sparsha C Raj
+* supreeth ms
+* Vaishnavi Nayak
+* Vishnuraj M
+</div>
+</div>
